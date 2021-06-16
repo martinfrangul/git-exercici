@@ -1,1 +1,1 @@
-Esta es una línea agregada desde la rama branch1
+Esta es una línea agregada desde branch1
